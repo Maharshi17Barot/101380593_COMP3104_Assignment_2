@@ -1,4 +1,4 @@
-## 3) [Maharshi Barot - 101380593](https://github.com/MehaModi/COMP3104GP21ASSIGNMENT01/tree/101380593-Maharshi)
+## [Maharshi Barot - 101380593]
 
 
 - Student Id :- 101380593
