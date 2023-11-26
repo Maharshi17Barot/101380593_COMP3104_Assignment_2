@@ -1,4 +1,4 @@
-## [Maharshi Barot - 101380593]
+## Maharshi Barot - 101380593
 
 
 - Student Id :- 101380593
